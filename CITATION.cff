@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite both the software and the paper below."
+message: "If you use this software, please cite it using the metadata below."
 title: "Chromospheric Swirl and Fibril Graph Tracing"
 version: 0.1.0
 date-released: "2026-10-14"
@@ -14,18 +14,3 @@ keywords:
   - chromosphere
   - swirls
   - feature tracking
-preferred-citation:
-  type: article
-  title: "Mapping Oscillatory Flows in a Giant Chromospheric Spiral"
-  authors:
-    - family-names: "Saneshwar"
-      given-names: "Yash"
-    - family-names: "Scullion"
-      given-names: "Eamon"
-    - family-names: "Botha"
-      given-names: "Gert"
-  journal: "The Astrophysical Journal"
-  volume: 1007
-  start: 114
-  year: 2026
-  doi: "10.3847/1538-4357/ae899b"
