@@ -112,8 +112,6 @@ The example data were obtained with the Swedish 1-m Solar Telescope (SST), opera
 
 ## Citation and licence
 
-If you use or adapt this code, please cite the software and the accompanying paper; the details are in [`CITATION.cff`](CITATION.cff):
-
-> Saneshwar, Y., Scullion, E., & Botha, G. (2026). Mapping Oscillatory Flows in a Giant Chromospheric Spiral. *The Astrophysical Journal*, 1007, 114. https://doi.org/10.3847/1538-4357/ae899b
+If you use or adapt this code, please cite the software using the details in [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button generates the citation). A paper describing the code is in preparation.
 
 Released under the [MIT License](LICENSE).
